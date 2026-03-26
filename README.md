@@ -1,6 +1,5 @@
 <div align= "center"> 
     <h1>성장하는 개발자 이현민입니다!</h1>
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;"> 성장하는 과정을 가장 중요하게 생각합니다. <br><br></li>하루하루 배우며, 더 나은 개발자가 되기 위해 나아가고 있습니다. </div> 
     </div>
     <div align= "center">
