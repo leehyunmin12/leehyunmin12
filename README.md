@@ -1,17 +1,17 @@
-<div align="center"> 
+<div align="left"> 
     <h1>성장하는 개발자 이현민입니다!</h1> 
     <br>
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #c9d1d9;">
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
         성장하는 과정을 가장 중요하게 생각합니다. <br><br>
         하루하루 배우며, 더 나은 개발자가 되기 위해 나아가고 있습니다.
     </div> 
     <br>
 </div>
 
-<div align="center">
+<div align="left">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> 
     <br> 
-    <div style="margin: 0 auto; text-align: center;">
+    <div style="margin: 0 auto; text-align: left;">
         <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
